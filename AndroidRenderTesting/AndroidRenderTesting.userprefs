@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{91A4BCE0-E931-42D4-B266-226927A3EB67}|Default">
+  <MonoDevelop.Ide.ItemProperties.AndroidRenderTesting PreferredExecutionTarget="Android.192.168.69.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Activity1.cs">
+    <Files>
+      <File FileName="Activity1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
